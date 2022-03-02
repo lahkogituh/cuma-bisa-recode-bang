@@ -54,8 +54,8 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = '-'
-namagithub = '-'
+namaig = https://instagram.com/andii'
+namagithub = 'https://github.com/andii'
 kasihcaption = `[]❕[] Done`
 namakontak1 = '❥ࣲ፝֟͜͡◔⃟➣ ᴘʀɪᴠᴀᴛᴇ 𝕭𝕯ᴮᴷᴾ ㊧'
 namakontak2 = '❥ࣲ፝֟͜͡◔⃟➣ ᴘʀɪᴠᴀᴛᴇ 𝕭𝕯ᴮᴷᴾ ㊧'
